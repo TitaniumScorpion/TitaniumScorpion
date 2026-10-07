@@ -1,39 +1,36 @@
 # Hi, I'm Uzay 👋
 
-**Game Designer & Unity Developer** · Istanbul, Turkey
+**Game Designer & Developer** · Istanbul, Turkey
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/uzay-a%C3%A7%C4%B1k-b588862a9/)
 [![Email](https://img.shields.io/badge/uzayacik50@gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:uzayacik50@gmail.com)
 
 I'm a Digital Game Design student at Istanbul Bilgi University who designs games and builds them.
 Most of what I make sits somewhere between tight gameplay systems and stylistic atmosphere.
+
 ---
 
-## Devil Engine
+## Current projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 <img src="assets/devil-engine.jpg" alt="Devil Engine" width="100%" />
-
-A fast, skill-based first-person roguelike boomer shooter. A gun in one hand, a katana in the other: tear through
-five brutalist arenas against swarms that spawn in packs, with one life and a hidden kill quota pushing you forward.
-
-- Dual-wielding: automatic pistol and katana, each upgraded through five tiers between arenas
-- Bullet time that freezes the world but not you, dashes and sword waves
-- Black-and-white ink look with neon accents, inspired by Tsutomu Nihei's megastructures
-
-<sub>Unity 6 · C# · URP · in development</sub> &nbsp;·&nbsp; [**Play on itch.io →**](https://ayill.itch.io/devil-engine)
-
-## ROGUE101
-
+<h3>Devil Engine</h3>
+Fast first-person roguelike boomer shooter. A gun in one hand, a katana in the other: five brutalist arenas, one life,
+bullet time and a hidden kill quota pushing you forward.<br/><br/>
+<sub>Unity 6 · C# · URP · in development</sub><br/>
+<a href="https://ayill.itch.io/devil-engine">Play the early demo prototype on itch.io →</a>
+</td>
+<td width="50%" valign="top">
 <img src="assets/rogue101.jpg" alt="ROGUE101" width="100%" />
-
-A first-person psychological horror roguelike built on 101 Okey, the Turkish rummy. Sit at a dark table against three
-uncanny opponents, hit each round's target score and beat their penalties, then bend the rules with Balatro-style power-ups.
-
-- Every tile is a physical object: pick it up, arrange your rack, throw it on the table
-- Full 101 Okey rules in a pure C# engine, covered by 260+ unit tests
-- Three AI opponents that open, lay off and discard on their own
-
+<h3>ROGUE101</h3>
+Psychological horror roguelike built on 101 Okey, the Turkish rummy. Beat three uncanny opponents at a dark table,
+where every tile is a physical object, and bend the rules with Balatro-style power-ups.<br/><br/>
 <sub>Unity 6 · C# · URP · in development</sub>
+</td>
+</tr>
+</table>
 
 ---
 
