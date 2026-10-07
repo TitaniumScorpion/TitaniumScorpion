@@ -5,8 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/uzay-a%C3%A7%C4%B1k-b588862a9/)
 [![Email](https://img.shields.io/badge/uzayacik50@gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:uzayacik50@gmail.com)
 
-I design games and build them in Unity and C#, with AI agents as part of my everyday workflow.
-
+I'm a Digital Game Design student at Istanbul Bilgi University who designs games and builds them.
+Most of what I make sits somewhere between tight gameplay systems and stylistic atmosphere.
 ---
 
 ## Devil Engine
